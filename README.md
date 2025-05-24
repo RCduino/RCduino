@@ -1,6 +1,10 @@
-# RCduino - Arduino RC Vehicle Library
 
-![RCduino Logo](https://rcduino.github.io/assets/logo.png)
+<p align="center">
+  <a href="https://www.hirunews.lk/" rel="noopener">
+<img src="https://rcduino.github.io/assets/logo.png" alt="RCduino Logo" width="150" height="150" />
+</p>
+  
+  <h1 align="center">RCduino - Arduino RC Vehicle Library</h2>  
 
 ## Introduction
 
