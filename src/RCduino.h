@@ -1,6 +1,6 @@
 /**
  * RCduino Library - Arduino RC Vehicle Control Library
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: RCduino Development Team
  * 
  * A comprehensive library for RC Car and RC Plane control systems
@@ -14,7 +14,7 @@
 #include <Servo.h>
 
 // Library version
-#define RCDUINO_VERSION "1.0.0"
+#define RCDUINO_VERSION "1.0.1"
 
 // Default configuration constants
 #define RCDUINO_DEFAULT_TIMEOUT 2000    // Signal timeout in milliseconds
